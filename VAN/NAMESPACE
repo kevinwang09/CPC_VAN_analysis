@@ -1,0 +1,8 @@
+export(identifySignificantHubs		## identify significant hubs
+	, generatePpiMap		## generate PPI n/w
+	, generateMicroRnaMap		## generate mirnome n/w	
+	, obtainCancerInfo		## map hubs to CIC information
+	, summarizeHubData		## summarize results for multiple PPI and/or expression datasets
+	, visualizeNetwork		## visualize a single hub and its interactors
+	, obtainPairSubset		## obtain a subset of the hub-interactor pairs
+       )

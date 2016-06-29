@@ -1,0 +1,8 @@
+name: VAN_Shiny_Interface
+account: gauss17gon
+server: shinyapps.io
+bundleId: 408748
+url: https://gauss17gon.shinyapps.io/VAN_Shiny_Interface/
+when: 1459585406.14102
+asMultiple: FALSE
+asStatic: FALSE
